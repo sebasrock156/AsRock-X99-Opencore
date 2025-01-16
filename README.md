@@ -44,7 +44,7 @@ Hardware | Model
 ![bios](https://i.imgur.com/RmYixFt.png) | Aptio's V v3.30 (by American Megatrends (AMI)/AsRock)
 ![processor](https://i.imgur.com/K9VlfRK.png) | Intel Xeon (5th Gen) E5-2640v4 10 Cores/20 Threads@2,4Ghz
 ![dgpu](https://i.imgur.com/7TZmF2e.png) | AMD/Sapphire Radeon RX 580 Nitro+ 8GB VRAM@1411Mhz (Officially supported until MacOS Ventura)
-![audio](https://i.imgur.com/A7RRuUn.png) | ALC1220 (in-build)
+![audio](https://i.imgur.com/A7RRuUn.png) | ALC1150
 Ethernet | Intel I218V and Realtek RTL8168H (2nd it's only for revisions with "cloud saver" Ethernet)
 ![ddr4](https://i.imgur.com/2oda3vY.png) | Corsair ValueSelect 32GB(4x8GB) DDR4@2133Mhz
 ![ssd](https://i.imgur.com/pozDx4X.png) | Kingston A400 240GB (TLC PS3111 Controller, testing drive)
