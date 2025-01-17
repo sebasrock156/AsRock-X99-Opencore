@@ -1,7 +1,7 @@
 [AirportItlwm]: https://github.com/openintelwireless/itlwm/releases
 [Itlwm]: https://openintelwireless.github.io/itlwm/Installation.html
 
-# AsRock X99 Extreme4/11 or Extreme6/Taichi Opencore (Monterey - Sequoia?)
+# AsRock X99 Extreme4/11 or Extreme6/Taichi Opencore (Sonoma 14.X)
 
 > ⚠ **ADVICE** ⚠: I'm working for fix USB 2.0 ports on Sonoma for now, maybe I'll try update Opencore for run Sonoma and Sequoia later.
 ---
