@@ -41,7 +41,7 @@ Hardware | Model
 ![motherboard](https://i.imgur.com/rcyOyso.png) | AsRock X99 Extreme4/Extreme11 (Broadwell-EP)
 ![bios](https://i.imgur.com/RmYixFt.png) | Aptio's V v3.80/v3.40 (by American Megatrends (AMI/AsRock)
 ![processor](https://i.imgur.com/K9VlfRK.png) | Intel Xeon (5th Gen) E5-2640v4 10 Cores/20 Threads@2,4Ghz
-![dgpu](https://i.imgur.com/7TZmF2e.png) | AMD/Sapphire Radeon RX 580 Nitro+ 8GB VRAM@1411Mhz (Officially supported until MacOS Ventura)
+![dgpu](https://i.imgur.com/7TZmF2e.png) | AMD/Sapphire Radeon RX 580 Nitro+ 8GB VRAM@1411Mhz
 ![audio](https://i.imgur.com/A7RRuUn.png) | ALC1150
 Ethernet | Intel I218V
 Ethernet 2 | Intel I211AT (on Extreme11 model only)
@@ -55,7 +55,7 @@ Hardware | Model
 ![motherboard](https://i.imgur.com/rcyOyso.png) | AsRock X99 Extreme6/Taichi (Broadwell-EP)
 ![bios](https://i.imgur.com/RmYixFt.png) | Aptio's V v3.50/1.80 (by American Megatrends (AMI/AsRock)
 ![processor](https://i.imgur.com/K9VlfRK.png) | Intel Xeon (5th Gen) E5-2640v4 10 Cores/20 Threads@2,4Ghz
-![dgpu](https://i.imgur.com/7TZmF2e.png) | AMD/Sapphire Radeon RX 580 Nitro+ 8GB VRAM@1411Mhz (Officially supported until MacOS Ventura)
+![dgpu](https://i.imgur.com/7TZmF2e.png) | AMD/Sapphire Radeon RX 580 Nitro+ 8GB VRAM@1411Mhz
 ![audio](https://i.imgur.com/A7RRuUn.png) | ALC1150
 Ethernet | Intel I218V
 Ethernet 2 | Qualcomm Atheros AR8171 (Not supported since OSX Mojave) / Intel I211AT
