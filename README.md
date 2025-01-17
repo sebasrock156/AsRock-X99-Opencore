@@ -39,7 +39,7 @@ I'm bringing another OpenCore EFI, now for this 2015 motherboard, for more infor
 Hardware | Model
 --- |:--:
 ![motherboard](https://i.imgur.com/rcyOyso.png) | AsRock X99 Extreme4 (Broadwell-EP)
-![bios](https://i.imgur.com/RmYixFt.png) | Aptio's V v3.30 or v3.80 (by American Megatrends (AMI)/AsRock)
+![bios](https://i.imgur.com/RmYixFt.png) | Aptio's V v3.30 or v3.80 (by American Megatrends (AMI/AsRock)
 ![processor](https://i.imgur.com/K9VlfRK.png) | Intel Xeon (5th Gen) E5-2640v4 10 Cores/20 Threads@2,4Ghz
 ![dgpu](https://i.imgur.com/7TZmF2e.png) | AMD/Sapphire Radeon RX 580 Nitro+ 8GB VRAM@1411Mhz (Officially supported until MacOS Ventura)
 ![audio](https://i.imgur.com/A7RRuUn.png) | ALC1150
@@ -52,7 +52,7 @@ Ethernet | Intel I218V
 Hardware | Model
 --- |:--:
 ![motherboard](https://i.imgur.com/rcyOyso.png) | AsRock X99 Extreme6/Taichi (Broadwell-EP)
-![bios](https://i.imgur.com/RmYixFt.png) | Aptio's V v3.50/1.80 (by American Megatrends (AMI)/AsRock)
+![bios](https://i.imgur.com/RmYixFt.png) | Aptio's V v3.50/1.80 (by American Megatrends (AMI/AsRock)
 ![processor](https://i.imgur.com/K9VlfRK.png) | Intel Xeon (5th Gen) E5-2640v4 10 Cores/20 Threads@2,4Ghz
 ![dgpu](https://i.imgur.com/7TZmF2e.png) | AMD/Sapphire Radeon RX 580 Nitro+ 8GB VRAM@1411Mhz (Officially supported until MacOS Ventura)
 ![audio](https://i.imgur.com/A7RRuUn.png) | ALC1150
