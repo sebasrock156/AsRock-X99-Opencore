@@ -46,11 +46,11 @@ I'm bringing another OpenCore EFI, now for these X99 motherboards, for more info
 
 [![MacOS Sonoma](https://i.imgur.com/q5X0WXd.png)](https://github.com/sebasrock156/AsRock-X99-Extreme-Opencore/tree/Sonoma)
 
-**Status:** In development (test with [Release EFI](https://github.com/sebasrock156/AsRock-X99-Extreme-Opencore/releases) )🖥
+**Status:** Done ✅ (test with [Release EFI](https://github.com/sebasrock156/AsRock-X99-Extreme-Opencore/releases) )🖥
 
-**More info of MacOS Sequoia:**
+**More info of MacOS Sequoia (doesn't exist even):**
 
-[![MacOS Sequoia](https://i.imgur.com/EzZuom8.png)](https://github.com/sebasrock156/AsRock-X99-Extreme-Opencore/tree/Sequoia-beta)
+[![MacOS Sequoia](https://i.imgur.com/EzZuom8.png)](https://github.com/sebasrock156/AsRock-X99-Extreme-Opencore/tree/Sequoia)
 
 **Status:** In plaining 👷‍♂️
 
