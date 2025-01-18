@@ -1,9 +1,20 @@
 [AirportItlwm]: https://github.com/openintelwireless/itlwm/releases
 [Itlwm]: https://openintelwireless.github.io/itlwm/Installation.html
+[USBToolBox]: https://github.com/USBToolBox/tool
+[guide1]: https://elitemacx86.com/threads/how-to-enable-thunderbolt-3-hotplug-on-macos.462/
+[guide2]: https://elitemacx86.com/threads/how-to-enable-thunderbolt-on-macos.461/
 
 # AsRock X99 Extreme4/11 or Extreme6/Taichi Opencore (Monterey - Sequoia?)
 
-> ⚠ **ADVICE** ⚠: I'm working for fix USB 2.0 ports on Sonoma for now, maybe I'll try update Opencore for run Sonoma and Sequoia later.
+> ⚠ **ADVICE** ⚠: For USB C-Type try to fix with [USBToolBox] and for fix Thunderbolt follow these: [guide1] and [guide2].
+---
+
+## Motherboards comparison
+
+![ExtremeOld](https://i.imgur.com/c7wYwNL.png)
+
+![ExtremeNew](https://i.imgur.com/bIVlMxD.png)
+
 ---
 
 I'm bringing another OpenCore EFI, now for this 2015 motherboard, for more information, click on "More info of **MacOS Version** below:
