@@ -17,7 +17,7 @@
 
 ---
 
-I'm bringing another OpenCore EFI, now for this 2015 motherboard, for more information, click on "More info of **MacOS Version** below:
+I'm bringing another OpenCore EFI, now for these X99 motherboards, for more information, click on "More info of **MacOS Version** below:
 
 
 **More info of MacOS Monterey:**
