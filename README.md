@@ -6,7 +6,7 @@
 
 # AsRock X99 Extreme4/11 or Extreme6/Taichi Opencore (Monterey - Sequoia?)
 
-> ⚠ **ADVICE** ⚠: For USB C-Type try to fix with [USBToolBox] and for fix Thunderbolt follow these: [guide1] and [guide2].
+> ⚠ **ADVICE** ⚠: For USB Type-C try to fix with [USBToolBox] and for fix Thunderbolt follow these: [guide1] and [guide2].
 ---
 
 ## Motherboards comparison
@@ -23,7 +23,7 @@ Ethernet | Intel I218V | Intel I218V (main) and Intel I211AT (2nd) | Intel I218V
 ![ddr4](https://i.imgur.com/2oda3vY.png) | Corsair ValueSelect 32GB(4x8GB) DDR4@2133Mhz | Corsair ValueSelect 32GB(4x8GB) DDR4@2133Mhz | Corsair ValueSelect 32GB(4x8GB) DDR4@2133Mhz | Corsair ValueSelect 64GB(8x8GB) DDR4@2400Mhz
 ![ssd](https://i.imgur.com/pozDx4X.png) | Kingston A400 240GB (TLC PS3111 Controller, testing drive) | Idem | Idem | Idem 
 ![nvme](https://i.imgur.com/xbsV0Ia.png) | Kioxia Exceria Pro 1TB SSD Nvme (TLC PS5018 Controller) | Idem | Idem | Idem
-USB Ports | 4 USB 2.0 (rear)/2 USB 2.0 connectors (frontal), 4 USB 3.1 (rear)/1 USB 3.1 connector (frontal); OSX is limited to 11 USB Inputs | 4 USB 2.0 (rear)/2 USB 2.0 connectors (frontal), 4 USB 3.1 (rear)/2 USB 3.1 connectors (frontal); OSX is limited to 11 USB Inputs | 2 USB 2.0 (rear)/2 USB 2.0 connectors (frontal)/1 USB 2.0 connector (internal), 6 USB 3.1 (rear)/2 USB 3.1 connectors (frontal); OSX is limited to 11 USB Inputs | 3 USB 2.0 (rear)/2 USB 2.0 connectors (frontal), 4 USB 3.1 (rear)/1 USB 3.1 connector (frontal), 1 USB C-Type 3.1 (rear); OSX is limited to 11 USB Inputs
+USB Ports | 4 USB 2.0 (rear)/2 USB 2.0 connectors (frontal), 4 USB 3.1 (rear)/1 USB 3.1 connector (frontal); OSX is limited to 11 USB Inputs | 4 USB 2.0 (rear)/2 USB 2.0 connectors (frontal), 4 USB 3.1 (rear)/2 USB 3.1 connectors (frontal); OSX is limited to 11 USB Inputs | 2 USB 2.0 (rear)/2 USB 2.0 connectors (frontal)/1 USB 2.0 connector (internal), 6 USB 3.1 (rear)/2 USB 3.1 connectors (frontal); OSX is limited to 11 USB Inputs | 3 USB 2.0 (rear)/2 USB 2.0 connectors (frontal), 4 USB 3.1 (rear)/1 USB 3.1 connector (frontal), 1 USB Type-C 3.1 (rear); OSX is limited to 11 USB Inputs
 ---
 
 
