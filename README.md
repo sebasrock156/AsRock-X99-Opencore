@@ -12,19 +12,19 @@
 
 - System Boot ✅
 
-- USB Ports (All ports are 2.0)✅
+- USB Ports ✅ (Only 11 USB Ports may be work; MacOS have a limitation until CPU 22 lines for USB)
 
 - Screen ✅ (1336x768, 1080x1920)
 
 - Audio Card ✅ (Inputs and Outputs)
 
-- Ethernet ✅
+- eSATA Port ✅ (If is empty: SATA3_3 on Extreme4 and Extreme6, SATA3_3 or SATA3_1 on Extreme11)
 
-- PCI Express Ports (M.2 Port included, Nvmefix kext it's added)✅
+- Ethernet ✅ (Intel cards only)
+
+- PCI Express Ports ✅ (Less the ports: PCIE5 if M.2 NVMe is available on Extreme4 and Extreme6)
 
 - Sleep Mode ✅
-
-- Front COM Port (It's detected) ✅
  
 </details>
 
