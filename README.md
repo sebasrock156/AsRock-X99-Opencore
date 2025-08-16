@@ -14,7 +14,7 @@
 Hardware | Extreme4 | Extreme11 | Extreme6 | Taichi 
 --- | --- | --- | --- | :--: 
 Motherboard | [![MoBoE4](https://i.imgur.com/Q8CgiQa.png)](https://www.asrock.com/mb/intel/x99%20extreme4/) | [![MoBoE11](https://i.imgur.com/VLlZ4QH.png)](https://www.asrock.com/MB/Intel/X99%20Extreme11/index.asp) | [![MoBoE6](https://i.imgur.com/XReX76F.png)](https://www.asrock.com/MB/Intel/X99%20Extreme6/index.asp) | [![MoBoTai](https://i.imgur.com/VszqKuM.png)](https://www.asrock.com/MB/Intel/X99%20Taichi/index.asp)
-![bios](https://i.imgur.com/RmYixFt.png) | Aptio's V v3.80 (by American Megatrends (AMI/AsRock) | Aptio's V v3.40 (by American Megatrends (AMI/AsRock) | Aptio's V v3.50 (by American Megatrends (AMI/AsRock) | Aptio's V v1.80 (by American Megatrends (AMI/AsRock)
+![bios](https://i.imgur.com/RmYixFt.png) | Aptio's V v3.80 *for Haswell*/ v3.60 or v3.81 *for Broadwell* (by American Megatrends (AMI/AsRock) | Aptio's V v3.40 (by American Megatrends (AMI/AsRock) | Aptio's V v3.50 (by American Megatrends (AMI/AsRock) | Aptio's V v1.80 (by American Megatrends (AMI/AsRock)
 ![processor](https://i.imgur.com/K9VlfRK.png) | Intel Xeon (5th Gen) E5-2640v4 10 Cores/20 Threads@2,4Ghz | Intel Xeon (5th Gen) E5-2630v4 10 Cores/20 Threads@2,2Ghz | Intel Xeon (5th Gen) E5-2650v4 12 Cores/24 Threads@2,2Ghz | Intel Xeon (5th Gen) E5-2690v4 14 Cores/28 Threads@2,6Ghz
 ![dgpu](https://i.imgur.com/7TZmF2e.png) | AMD/Sapphire Radeon RX 580 Nitro+ 8GB VRAM | Gigabyte RX 570 GamingX 4GB VRAM | XFX Radeon RX 5700XT 8GB VRAM | Sapphire Radeon RX 5600 Pulse 6GB VRAM
 ![audio](https://i.imgur.com/A7RRuUn.png) | ALC1150 Purity Sound 2 | ALC1150 Purity Sound 2 | ALC1150 Purity Sound 2 | ALC1150 Purity Sound 3
