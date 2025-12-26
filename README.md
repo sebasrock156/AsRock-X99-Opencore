@@ -9,17 +9,17 @@
 > ⚠ **ADVICE** ⚠: For USB Type-C try to fix with [USBToolBox] and for fix Thunderbolt follow these: [guide1] and [guide2].
 ---
 
-## Motherboards comparison
+## Motherboards comparison *(**WARNING**: Latest BIOS firmwares with **0B00002A** microcode doesn't POST with Broadwell-EP processors)*
 
-Hardware | Extreme4 | Extreme11 | Extreme6 | Taichi 
+Hardware | Extreme4 | Extreme11 | Extreme6/Fatal1ty X99X Killer | Taichi/Fatal1ty Professional Gaming i7
 --- | --- | --- | --- | :--: 
-Motherboard | [![MoBoE4](https://i.imgur.com/Q8CgiQa.png)](https://www.asrock.com/mb/intel/x99%20extreme4/) | [![MoBoE11](https://i.imgur.com/VLlZ4QH.png)](https://www.asrock.com/MB/Intel/X99%20Extreme11/index.asp) | [![MoBoE6](https://i.imgur.com/XReX76F.png)](https://www.asrock.com/MB/Intel/X99%20Extreme6/index.asp) | [![MoBoTai](https://i.imgur.com/VszqKuM.png)](https://www.asrock.com/MB/Intel/X99%20Taichi/index.asp)
-![bios](https://i.imgur.com/RmYixFt.png) | Aptio's V v3.80 *for Haswell*/ v3.60 or v3.81 *for Broadwell* (by American Megatrends (AMI/AsRock) | Aptio's V v3.40 (by American Megatrends (AMI/AsRock) | Aptio's V v3.50 (by American Megatrends (AMI/AsRock) | Aptio's V v1.80 (by American Megatrends (AMI/AsRock)
-![processor](https://i.imgur.com/K9VlfRK.png) | Intel Xeon (5th Gen) E5-2640v4 10 Cores/20 Threads@2,4Ghz | Intel Xeon (5th Gen) E5-2630v4 10 Cores/20 Threads@2,2Ghz | Intel Xeon (5th Gen) E5-2650v4 12 Cores/24 Threads@2,2Ghz | Intel Xeon (5th Gen) E5-2690v4 14 Cores/28 Threads@2,6Ghz
-![dgpu](https://i.imgur.com/7TZmF2e.png) | AMD/Sapphire Radeon RX 580 Nitro+ 8GB VRAM | Gigabyte RX 570 GamingX 4GB VRAM | XFX Radeon RX 5700XT 8GB VRAM | Sapphire Radeon RX 5600 Pulse 6GB VRAM
-![audio](https://i.imgur.com/A7RRuUn.png) | ALC1150 Purity Sound 2 | ALC1150 Purity Sound 2 | ALC1150 Purity Sound 2 | ALC1150 Purity Sound 3
+Motherboard | [![MoBoE4](https://i.imgur.com/Q8CgiQa.png)](https://www.asrock.com/mb/intel/x99%20extreme4/) | [![MoBoE11](https://i.imgur.com/VLlZ4QH.png)](https://www.asrock.com/MB/Intel/X99%20Extreme11/index.asp) | [![MoBoE6](https://i.imgur.com/GPb1TSd.png)](https://www.asrock.com/MB/Intel/X99%20Extreme6/index.asp) | [![MoBoTai](https://i.imgur.com/O07EHQ8.png)](https://www.asrock.com/MB/Intel/X99%20Taichi/index.asp)
+![bios](https://i.imgur.com/RmYixFt.png) | Aptio's V v3.60 or v3.81 *for Haswell and Broadwell* (by American Megatrends (AMI/AsRock) | Aptio's V v3.40 (by American Megatrends (AMI/AsRock) | Aptio's V v3.30 *for Haswell and Broadwell* (by American Megatrends (AMI/AsRock) | Aptio's V v1.80 (by American Megatrends (AMI/AsRock)
+![processor](https://i.imgur.com/K9VlfRK.png) | Intel Xeon (5th Gen) E5-2640v4 10 Cores/20 Threads@2,4Ghz | Intel Xeon (5th Gen) E5-2630v4 10 Cores/20 Threads@2,2Ghz | Intel Xeon (5th Gen) E5-2690v4 14 Cores/28 Threads@2,6Ghz | Intel Xeon (5th Gen) E5-2690v4 12 Cores/24 Threads@2,2Ghz
+![dgpu](https://i.imgur.com/7TZmF2e.png) | Sapphire Radeon RX 580 Nitro+ 8GB VRAM | Gigabyte RX 570 Gaming 4GB VRAM | XFX Radeon RX 5700XT Thicc III Ultra 8GB VRAM | Sapphire Radeon RX 5600 Pulse 6GB VRAM
+![audio](https://i.imgur.com/A7RRuUn.png) | ALC1150 Purity Sound 2 | Idem | Idem | ALC1150 Purity/Creative Sound 3
 Ethernet | Intel I218V | Intel I218V (main) and Intel I211AT (2nd) | Intel I218V (main) and Qualcomm Atheros AR8171 (2nd, not supported since OSX Mojave)| Intel I218V (main) and Intel I211AT (2nd)
-![wlan](https://i.imgur.com/9eDLwo9.png) | N/A | N/A | Add a Intel Wireless card | Add [AirportItlwm] for Monterey or Ventura / [Itlwm] for BigSur, Sonoma or Sequoia?)
+![wlan](https://i.imgur.com/9eDLwo9.png) | N/A (I'm using an Intel AC-7260NGW) | N/A | Add a Intel Wireless card (I'm using an Intel AC-7265NGW) | Add [AirportItlwm] for Monterey or Ventura / [Itlwm] for BigSur, Sonoma or Sequoia?)
 ![ddr4](https://i.imgur.com/2oda3vY.png) | Corsair ValueSelect 32GB(4x8GB) DDR4@2133Mhz | Corsair ValueSelect 32GB(4x8GB) DDR4@2133Mhz | Corsair ValueSelect 32GB(4x8GB) DDR4@2133Mhz | G.Skill Aegis 64GB(8x8GB) DDR4@2400Mhz
 ![ssd](https://i.imgur.com/pozDx4X.png) | Kingston A400 240GB (TLC PS3111 Controller, testing drive) | Idem | Idem | Idem 
 ![nvme](https://i.imgur.com/xbsV0Ia.png) | Kioxia Exceria Pro 1TB SSD Nvme (TLC PS5018 Controller) | Idem | Idem | Idem
