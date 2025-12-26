@@ -12,17 +12,17 @@
 
 - System Boot ✅
 
-- USB Ports (All ports are 2.0)✅
+- USB Ports ✅
 
 - Screen ✅ (1336x768, 1080x1920)
 
 - Audio Card ✅ (Inputs and Outputs)
 
-- Ethernet ✅
+- Ethernet ✅ (Intel ports only)
 
 - PCI Express Ports (M.2 Port included, Nvmefix kext it's added)✅
 
-- Sleep Mode ✅
+- Sleep Mode ✅❌
 
 - Front COM Port (It's detected) ✅
  
