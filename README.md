@@ -36,7 +36,7 @@
 
 1. Add the boot-arg:
 
-- "**radpg=15**" for enabling 3D Acceleration (In almost all 2017 or older GPUs, Eg: RX 580, RX 470, R9 Fury X, HD 7730, etc).
+- "**radpg=15**" for enabling 3D Acceleration (In almost all 2017 or older GPUs, Eg: R9 Fury X, HD 7730, etc).
 
 - "**agdpmod=pikera**" for try enabling drivers (In almost all 2018 or newer GPUs, Eg: Vega 56, Radeon VII, RX 5700XT, RX 6600, etc).
 From *NVRAM --> 7C436110-AB2A-4BBB-A880-FE41995C9F82*
