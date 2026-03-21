@@ -1,8 +1,8 @@
 [OpenCore Legacy Patcher]: https://github.com/dortania/OpenCore-Legacy-Patcher/releases
 
-# AsRock X99 Extreme4/11 or Extreme6/Taichi Opencore (Sonoma 14.X)
+# AsRock X99 Extreme4/11 or Extreme6/Taichi Opencore (Sequoia 15.X)
 
-![Screenshot](https://i.imgur.com/ffR1lDH.png)
+**THIS IS A PLACEHOLDER FOR NOW**
 
 ### Works:
 ---
