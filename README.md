@@ -4,7 +4,7 @@
 [guide1]: https://elitemacx86.com/threads/how-to-enable-thunderbolt-3-hotplug-on-macos.462/
 [guide2]: https://elitemacx86.com/threads/how-to-enable-thunderbolt-on-macos.461/
 
-# AsRock X99 Extreme4/11 or Extreme6/Taichi Opencore ( (BigSur,) Monterey - Tahoe? and "Grand Finale")
+# AsRock X99 Extreme4/11 or Extreme6/Taichi Opencore (Monterey - Tahoe)
 
 > ⚠ **ADVICE** ⚠: For USB Type-C try to fix with [USBToolBox] and for fix Thunderbolt follow these: [guide1] and [guide2].
 ---
