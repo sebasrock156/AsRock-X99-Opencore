@@ -32,7 +32,7 @@
 ### IMPORTANT NOTES:
 ---
 
-## For fix HDA Audio (in-build):
+## For fix HDA Audio (in-built):
 
 1. Disable AMFI from config.plist (my [release]() EFI is done).
 2. Follow the guide by @Mirone from [here](https://github.com/Mirone/MyKextInstaller).
