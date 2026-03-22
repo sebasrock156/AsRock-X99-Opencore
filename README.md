@@ -2,7 +2,7 @@
 
 # AsRock X99 Extreme4/11 or Extreme6/Taichi Opencore (Tahoe 26.X)
 
-**THIS IS A PLACEHOLDER FOR NOW**
+![Tahoe](https://i.imgur.com/kA4LqPA.png)
 
 ### Works:
 ---
@@ -12,11 +12,9 @@
 
 - System Boot ✅
 
-- USB Ports ✅
+- USB Ports ✅❌
 
 - Screen ✅ (1336x768, 1080x1920)
-
-- Audio Card ✅ (Inputs and Outputs)
 
 - Ethernet ✅ (Intel ports only)
 
