@@ -34,7 +34,7 @@
 
 ## For fix HDA Audio (in-built):
 
-1. Disable AMFI from config.plist (my [release]() EFI is done).
+1. Disable AMFI from config.plist (my [release](https://github.com/sebasrock156/AsRock-X99-Opencore/releases/tag/oc-107) EFI is done).
 2. Follow the guide by @Mirone from [here](https://github.com/Mirone/MyKextInstaller).
 3. If audio doesn't work patch your EFI build with SSDT-HPET and add the boot-args: *-lilubetaall* and *-alcbeta*.
 
