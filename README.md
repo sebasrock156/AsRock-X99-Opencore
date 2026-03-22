@@ -18,7 +18,7 @@ Motherboard | [![MoBoE4](https://i.imgur.com/Q8CgiQa.png)](https://www.asrock.co
 ![processor](https://i.imgur.com/K9VlfRK.png) | Intel Xeon (5th Gen) E5-2640v4 10 Cores/20 Threads@2,4Ghz | Intel Xeon (5th Gen) E5-2630v4 10 Cores/20 Threads@2,2Ghz | Intel Xeon (5th Gen) E5-2690v4 14 Cores/28 Threads@2,6Ghz | Intel Xeon (5th Gen) E5-2690v4 12 Cores/24 Threads@2,2Ghz
 ![dgpu](https://i.imgur.com/7TZmF2e.png) | Sapphire Radeon RX 580 Nitro+ 8GB VRAM | Gigabyte RX 570 Gaming 4GB VRAM | XFX Radeon RX 5700XT Thicc III Ultra 8GB VRAM | Sapphire Radeon RX 5600 Pulse 6GB VRAM
 ![audio](https://i.imgur.com/A7RRuUn.png) | ALC1150 Purity Sound 2 | Idem | Idem | ALC1150 Purity/Creative Sound 3
-Ethernet | Intel I218V | Intel I218V (main) and Intel I211AT (2nd) | Intel I218V (main) and Qualcomm Atheros AR8171 | Intel I218V (main) and Intel I211AT (2nd)
+Ethernet | Intel I218V | Intel I218V (main) and Intel I211AT (2nd) | Intel I218V (main) and Qualcomm Atheros AR8171 (2nd) | Intel I218V (main) and Intel I211AT (2nd)
 ![wlan](https://i.imgur.com/9eDLwo9.png) | N/A (I'm using an Intel AC-7260NGW) | N/A | Add a Intel Wireless card (I'm using an Intel AC-7265NGW) | Add [AirportItlwm] for Monterey or Ventura / [Itlwm] for BigSur, Sonoma or Sequoia?)
 ![ddr4](https://i.imgur.com/2oda3vY.png) | Corsair ValueSelect 32GB(4x8GB) DDR4@2133Mhz | Corsair ValueSelect 32GB(4x8GB) DDR4@2133Mhz | Corsair ValueSelect 32GB(4x8GB) DDR4@2133Mhz | G.Skill Aegis 64GB(8x8GB) DDR4@2400Mhz
 ![ssd](https://i.imgur.com/pozDx4X.png) | Kingston A400 240GB (TLC PS3111 Controller, testing drive) | Idem | Idem | Idem 
