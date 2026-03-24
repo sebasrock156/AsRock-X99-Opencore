@@ -56,7 +56,7 @@ I'm bringing another OpenCore EFI, now for these X99 motherboards, for more info
 
 **More info of MacOS Tahoe:**
 
-[![MacOS Sequoia](https://i.imgur.com/EzZuom8.png)](https://github.com/sebasrock156/AsRock-X99-Opencore/tree/Tahoe)
+[![MacOS Tahoe](https://i.imgur.com/E4EFOOM.png)](https://github.com/sebasrock156/AsRock-X99-Opencore/tree/Tahoe)
 
 **Status:** Done ✅ (test with [Release EFI](https://github.com/sebasrock156/AsRock-X99-Opencore/releases) )🖥
 
