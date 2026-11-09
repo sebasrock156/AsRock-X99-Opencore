@@ -30,7 +30,6 @@
 
 
 ### IMPORTANT NOTES:
----
 
 ## For fix HDA Audio (in-built):
 
